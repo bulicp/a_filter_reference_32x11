@@ -8,7 +8,7 @@ verilog_files:
   - src/fos_exact_tra_v2.v
   - src/fos_exact_tra_v3.v
   - src/fos_exact_tra_v4.v
-  - src/fos_exac.v
+  - src/fos_exact.v
   - src/rad4_reference.v
   - src/rad4_reference1.v
   - src/rad4_reference2.v
